@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.28)  22 OCT 2020 12:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.28)  22 OCT 2020 23:11
 entering extended mode
-**c:/Users/deuts/Desktop/testLaTex/main.tex
-(c:/Users/deuts/Desktop/testLaTex/main.tex
+**c:/Users/deuts/Desktop/Book/main.tex
+(c:/Users/deuts/Desktop/Book/main.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-06-18> (C:\Users\deuts\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
 Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
@@ -53,79 +53,88 @@ Package babel Info: Making > an active character on input line 707.
 File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count179
 \l__pdf_internal_box=\box45
-) (c:/Users\deuts\Desktop\testLaTex\main.aux (c:/Users\deuts\Desktop\testLaTex\Razon/index.aux)
-LaTeX Info: Redefining \. on input line 9.
-LaTeX Info: Redefining \% on input line 9.
- (c:/Users\deuts\Desktop\testLaTex\Instinto/index.aux) (c:/Users\deuts\Desktop\testLaTex\Emosion/index.aux))
+) (c:/Users\deuts\Desktop\Book\main.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+ (c:/Users\deuts\Desktop\Book\Razon/index.aux) (c:/Users\deuts\Desktop\Book\Instinto/index.aux) (c:/Users\deuts\Desktop\Book\Emosion/index.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Info: Redefining \. on input line 4.
-LaTeX Info: Redefining \% on input line 4.
-\openout2 = `Razon/index.aux'.
-
- (c:/Users\deuts\Desktop\testLaTex\Razon/index.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 2--5
-
- []
-
-[1
-
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 8.
+ [1
 
 
 {C:/Users/deuts/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-\openout2 = `Instinto/index.aux'.
+\openout2 = `Razon/index.aux'.
 
- (c:/Users\deuts\Desktop\testLaTex\Instinto/index.tex [2
-
+ (c:/Users\deuts\Desktop\Book\Razon/index.tex [2
 
 
 ])
-Underfull \hbox (badness 10000) in paragraph at lines 2--6
+Underfull \hbox (badness 10000) in paragraph at lines 2--9
 
  []
 
 [3]
-\openout2 = `Emosion/index.aux'.
+\openout2 = `Instinto/index.aux'.
 
- (c:/Users\deuts\Desktop\testLaTex\Emosion/index.tex [4
+ (c:/Users\deuts\Desktop\Book\Instinto/index.tex [4
 
 
 
 ])
-Underfull \hbox (badness 10000) in paragraph at lines 2--7
+Underfull \hbox (badness 10000) in paragraph at lines 14--10
 
  []
 
-[5] (c:/Users\deuts\Desktop\testLaTex\main.aux (c:/Users\deuts\Desktop\testLaTex\Razon/index.aux)
-LaTeX Info: Redefining \. on input line 9.
-LaTeX Info: Redefining \% on input line 9.
- (c:/Users\deuts\Desktop\testLaTex\Instinto/index.aux) (c:/Users\deuts\Desktop\testLaTex\Emosion/index.aux)) ) 
+[5]
+\openout2 = `Emosion/index.aux'.
+
+ (c:/Users\deuts\Desktop\Book\Emosion/index.tex [6
+
+
+
+])
+Underfull \hbox (badness 10000) in paragraph at lines 2--11
+
+ []
+
+[7] (c:/Users\deuts\Desktop\Book\main.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+ (c:/Users\deuts\Desktop\Book\Razon/index.aux) (c:/Users\deuts\Desktop\Book\Instinto/index.aux) (c:/Users\deuts\Desktop\Book\Emosion/index.aux)) ) 
 Here is how much of TeX's memory you used:
- 1546 strings out of 480790
- 23685 string characters out of 2897301
- 271014 words of memory out of 3000000
- 17591 multiletter control sequences out of 15000+200000
- 533297 words of font info for 27 fonts, out of 3000000 for 9000
+ 1573 strings out of 480790
+ 23821 string characters out of 2897301
+ 272063 words of memory out of 3000000
+ 17610 multiletter control sequences out of 15000+200000
+ 536937 words of font info for 39 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,4n,35p,188b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/deuts/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/deuts/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on c:/Users\deuts\Desktop\testLaTex\main.pdf (5 pages, 24360 bytes).
+ 29i,7n,35p,193b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/deuts/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/deuts/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/deuts/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/deuts/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on c:/Users\deuts\Desktop\Book\main.pdf (7 pages, 56482 bytes).
 PDF statistics:
- 26 PDF objects out of 1000 (max. 8388607)
+ 42 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
